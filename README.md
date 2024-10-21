@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishasinghd&label=Profile%20views&color=0e75b6&style=flat" alt="nishasinghd" /> </p>
 
-- 🔭 I’m currently working on **creating a creative portfolio with my website designs**
+- 🔭 I’m currently working on **creating a portfolio showcasing my work: prototypes, personal projects, and work**
 
 - 🌱 I’m currently learning **React, Tailwind and Unity**
 
