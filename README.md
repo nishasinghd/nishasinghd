@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **creating a portfolio showcasing my work: prototypes, personal projects, and work**
 
-- 🌱 I’m currently learning **React, Tailwind and Unity**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **my class projects using C# MVC**
 
