@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **my class projects using C# MVC**
+- 💬 Ask me about **my FIGMA projects**
 
 - 📫 How to reach me **nishitadeswal@gmail.com**
 
